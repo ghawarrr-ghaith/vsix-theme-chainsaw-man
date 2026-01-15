@@ -1,0 +1,60 @@
+{
+	"name": "CSM: Blood Fiend (Power)",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#1E222A",
+		"editor.foreground": "#DAA19E",
+		"activityBar.background": "#285895",
+		"activityBar.foreground": "#DAA19E",
+		"sideBar.background": "#232830",
+		"sideBar.foreground": "#DAA19E",
+		"statusBar.background": "#285895",
+		"statusBar.foreground": "#E6E6E6",
+		"titleBar.activeBackground": "#1E222A",
+		"editorCursor.foreground": "#EE596D",
+		"editorLineNumber.foreground": "#285895",
+		"editorLineNumber.activeForeground": "#EE596D",
+		"editor.selectionBackground": "#EE596D40",
+		"list.activeSelectionBackground": "#EE596D",
+		"list.activeSelectionForeground": "#E6E6E6",
+		"focusBorder": "#EE596D"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#536B7B"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#EE596D",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#DE5F8E"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#DAA19E"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"foreground": "#285895"
+			}
+		}
+	]
+}

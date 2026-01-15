@@ -1,0 +1,53 @@
+{
+	"name": "CSM: The Hero of Hell (Denji)",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#1D202F",
+		"editor.foreground": "#FCF5ED",
+		"activityBar.background": "#1D202F",
+		"activityBar.foreground": "#DF2713",
+		"sideBar.background": "#252839",
+		"sideBar.foreground": "#FCF5ED",
+		"statusBar.background": "#9C3129",
+		"statusBar.foreground": "#FCF5ED",
+		"titleBar.activeBackground": "#9C3129",
+		"editorCursor.foreground": "#FAE325",
+		"editorLineNumber.foreground": "#9C3129",
+		"editorLineNumber.activeForeground": "#DF2713",
+		"editor.selectionBackground": "#DF271340",
+		"list.activeSelectionBackground": "#DF2713",
+		"list.activeSelectionForeground": "#FCF5ED",
+		"focusBorder": "#FAE325"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#9C3129"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#DF2713",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#FAE325"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#FCF5ED"
+			}
+		}
+	]
+}

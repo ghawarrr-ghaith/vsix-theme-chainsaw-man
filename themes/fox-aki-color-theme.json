@@ -1,0 +1,53 @@
+{
+	"name": "CSM: Fox (Aki)",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#1C2329",
+		"editor.foreground": "#D2DADC",
+		"activityBar.background": "#0F141A",
+		"activityBar.foreground": "#46545E",
+		"sideBar.background": "#151B20",
+		"sideBar.foreground": "#E6E6E6",
+		"statusBar.background": "#46545E",
+		"statusBar.foreground": "#E6E6E6",
+		"titleBar.activeBackground": "#1C2329",
+		"editorCursor.foreground": "#E6E6E6",
+		"editorLineNumber.foreground": "#34404C",
+		"editorLineNumber.activeForeground": "#E6E6E6",
+		"editor.selectionBackground": "#46545E50",
+		"list.activeSelectionBackground": "#46545E",
+		"list.activeSelectionForeground": "#E6E6E6",
+		"focusBorder": "#E6E6E6"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#34404C"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#E6E6E6",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#8fa0b0"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#D2DADC"
+			}
+		}
+	]
+}

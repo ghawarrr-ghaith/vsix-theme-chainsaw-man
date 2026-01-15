@@ -1,0 +1,53 @@
+{
+	"name": "CSM: Control (Makima)",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#30393B",
+		"editor.foreground": "#F0EFE7",
+		"activityBar.background": "#98585B",
+		"activityBar.foreground": "#F8C450",
+		"sideBar.background": "#252C2E",
+		"sideBar.foreground": "#F0EFE7",
+		"statusBar.background": "#F8C450",
+		"statusBar.foreground": "#30393B",
+		"titleBar.activeBackground": "#98585B",
+		"editorCursor.foreground": "#B64421",
+		"editorLineNumber.foreground": "#98585B",
+		"editorLineNumber.activeForeground": "#F8C450",
+		"editor.selectionBackground": "#F8C45040",
+		"list.activeSelectionBackground": "#B64421",
+		"list.activeSelectionForeground": "#F0EFE7",
+		"focusBorder": "#F8C450"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#657578"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#98585B",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#F8C450"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#B64421"
+			}
+		}
+	]
+}

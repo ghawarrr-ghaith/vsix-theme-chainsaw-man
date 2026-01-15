@@ -1,0 +1,41 @@
+{
+    "name": "chainsaw-man-theme",
+    "displayName": "Chainsaw Man Theme",
+    "description": "Themes inspired by the Public Safety Devil Hunters.",
+    "version": "0.0.1",
+    "publisher": "verzi",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CSM: The Hero of Hell (Denji)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hero-denji-color-theme.json"
+            },
+            {
+                "label": "CSM: Control (Makima)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/control-makima-color-theme.json"
+            },
+            {
+                "label": "CSM: Blood Fiend (Power)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blood-power-color-theme.json"
+            },
+            {
+                "label": "CSM: Fox (Aki)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fox-aki-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/verzi/chainsaw-man-theme"
+    }
+}
