@@ -2,7 +2,7 @@
     "name": "chainsaw-man-theme",
     "displayName": "Chainsaw Man Theme",
     "description": "Themes inspired by the Public Safety Devil Hunters.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "verzi",
     "engines": {
         "vscode": "^1.60.0"
